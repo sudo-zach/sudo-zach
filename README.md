@@ -1,8 +1,11 @@
-This is a summary of my coding activity on GitHub.
+This is a summary of my coding activity on GitHub. To learn more about me, feel free to checkout my [website](https://rocketry.cloud).
 
 **Projects:**
+- [Jellyfin LCARS](https://github.com/sudo-zach/Jellyfin-LCARS)
 - [Element Themes](https://github.com/sudo-zach/Element-Themes)
 - [PaperProton-Redux](https://github.com/sudo-zach/PaperProton-Redux)
+
+**Contribution Graph:**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudo-zach/sudo-zach/output/github-contribution-grid-snake-dark.svg">
